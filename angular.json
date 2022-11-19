@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-14-course": {
+    "angular-15-course": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
